@@ -1,2 +1,2 @@
 # Hello_world
-Just checking how GitHub works. :)
+Just checking out how GitHub works. :)
